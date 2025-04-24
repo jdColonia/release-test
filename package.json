@@ -1,5 +1,5 @@
 {
-  "name": "my-infra-repo",
+  "name": "release-test",
   "version": "0.0.0",
   "description": "",
   "main": "index.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EstebanGZam/my-infra-repo.git"
+    "url": "git+https://github.com/jdColonia/release-test.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/EstebanGZam/my-infra-repo.git"
+    "url": "https://github.com/jdColonia/release-test.git"
   },
-  "homepage": "https://github.com/EstebanGZam/my-infra-repo.gits",
+  "homepage": "https://github.com/jdColonia/release-test.gits",
   "devDependencies": {
     "semantic-release": "^24.2.3"
   }
